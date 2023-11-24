@@ -1,0 +1,31 @@
+Al inicio del documento hay que poner:
+    <!DOCTYPE html>
+
+Despues para deccirle al naegador que es un html:
+    <html>
+    </html>
+
+La estructura de la pagina se va a dividir en :
+
+    <head></head>
+    la cual contiene:
+        <meta charset="utf8">
+
+        <title></title>
+
+        *Nota: el title es lo que sale en la pestaña del navegador*
+
+    <body></body>
+    
+    *Dentro va todo *
+
+    </html> (Aqui acaba la pagina)
+
+PARA PONER UN TEXTO EN NEGRITA
+
+    Ejemplo:
+
+        <p><strong>Me cago en dios pero en negrita<strong></p>
+        hay que utlilizar la etiqueta:
+
+        <strong></strong> al inicio y al final de la clase
