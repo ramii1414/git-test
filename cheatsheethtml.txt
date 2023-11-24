@@ -62,3 +62,8 @@ COMO SE CREAN LINKS
         <a href=""></a>
             *Dentro de href="va un link(www.google.com)"*
 
+LINK A OTRA PAGINA
+
+    Cuando nos referimos a otra pagina en verdad nos referimos a otro archivo html
+    por lo tanto debemos tener ambos archivos en la misma carpeta por lo que tan solo
+    con poner el nombre del archivo dentro de "href" bastaria
