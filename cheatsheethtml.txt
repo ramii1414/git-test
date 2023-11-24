@@ -25,7 +25,40 @@ PARA PONER UN TEXTO EN NEGRITA
 
     Ejemplo:
 
-        <p><strong>Me cago en dios pero en negrita<strong></p>
         hay que utlilizar la etiqueta:
 
-        <strong></strong> al inicio y al final de la clase
+        <strong></strong> al inicio y al final de la frase
+
+        <p><strong>Me cago en dios pero en negrita<strong></p>
+
+    La etiqueta <b></b> significa lo mismo pero es menos visual 
+    (no usarla)
+        
+        
+
+PARA PONER UN TEXTO EN CURSIVA
+
+    Ejemplo:
+
+        hay que utlilizar la etiqueta:
+
+            <em></em> al inicio y al final de la frase
+
+            <p><em>Me cago en dios pero en cursiva</em></p>
+
+    La etiqueta <i></i> significa lo mismo pero es menos visual 
+    (no usarla)
+
+*Se pueden combinar ambas etiquetas para poner en negrita y cursiva a la vez*
+
+COMO SE PONEN COMENTARIOS
+
+    <!-- Esto es un comentario de html -->
+
+
+COMO SE CREAN LINKS
+
+    hay que usar la etiqueta:
+        <a href=""></a>
+            *Dentro de href="va un link(www.google.com)"*
+
